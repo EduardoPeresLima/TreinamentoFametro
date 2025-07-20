@@ -1,7 +1,7 @@
 ### Tipos primitivos de Variáveis
-`int`: Número inteiro. Ex: `-123`, `500`, `0`, `892`
-`char`: UM caractere. Sempre entre aspas simples. Ex: `'a'`, `'['`, `'$'`, `'7'`
-`bool`: Afirmação, só pode ser verdadeiro ou falso. Ex: `false`, `true`
+`int`: Número inteiro. Ex: `-123`, `500`, `0`, `892`<br>
+`char`: UM caractere. Sempre entre aspas simples. Ex: `'a'`, `'['`, `'$'`, `'7'`<br>
+`bool`: Afirmação, só pode ser verdadeiro ou falso. Ex: `false`, `true`<br>
 `double`: Número quebrado, o separador decimal é o PONTO. Ex: `2.349`, `-4123.978`
 
 ### Leitura e Escrita de dados
@@ -22,8 +22,8 @@
 ## Extra
 Essas informações não são essenciais pra quem está iniciando, mas será importante voltar aqui quando o estudante tiver mais experiência.
 ### Outro tipos primitivos
-`float`: Número quebrado assim como `double`, mas geralmente usamos `double` por ser mais preciso.
-`void`: Quando uma função não retorna nada, usamos tipo `void`
+`float`: Número quebrado assim como `double`, mas geralmente usamos `double` por ser mais preciso.<br>
+`void`: Quando uma função não retorna nada, usamos tipo `void`<br>
 `long long`: Número inteiro, bem maior que o `int`
 - Em algumas questões é importante perceber que em algum momento, certos valores podem ultrapassar o limite do `int`, sendo necessário usar o `long long`
 - O `int` tem 32 bits de aramazenamento, então armazena qualquer valor no intervalo fechado:
